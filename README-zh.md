@@ -1,5 +1,5 @@
 # Kouon_NSF_Vocoder
-Kouon_NSF_Vocoder是一个NSF-HiFiGAN声码器，旨在解决OpenVPI NSF-HiFiGAN Vocoder音域较窄以及Fish NSF-HiFiGAN Vocoder音质较差的问题。
+Kouon_NSF_Vocoder是一个NSF-HiFiGAN声码器，旨在尝试解决OpenVPI NSF-HiFiGAN Vocoder音域较窄以及Fish NSF-HiFiGAN Vocoder音质较差的问题。
 
 此项目属于Multi-langs项目的一部分，作为独立的子项目运行。
 
