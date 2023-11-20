@@ -18,7 +18,8 @@ Kouon_NSF_Vocoder是一个NSF-HiFiGAN声码器，旨在解决OpenVPI NSF-HiFiGAN
 - [rev](https://twitter.com/rev_bmp)
 - [昏惩-Twilight](https://space.bilibili.com/10702550)
 - [咪拉Mira](https://space.bilibili.com/3537117019899937)
-- 
+- [祁唱](https://space.bilibili.com/11256670)
+- [浅律Asaritsu](https://space.bilibili.com/6483585)
 
 组织：
 - [韶和Project](https://space.bilibili.com/383588200)
@@ -26,3 +27,6 @@ Kouon_NSF_Vocoder是一个NSF-HiFiGAN声码器，旨在解决OpenVPI NSF-HiFiGAN
 # 声码器训练所用到的开源/公开数据集
 - [OpenCPOP](https://wenet.org.cn/opencpop/)
 - [CODEY_Dataset](https://github.com/KakaruHayate/CODEY_Dataset)
+- [M4Singer](https://m4singer.github.io/)
+- [NUS-SMC-48](https://smcnus.comp.nus.edu.sg/)
+- 
