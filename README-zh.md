@@ -31,4 +31,4 @@ Kouon_NSF_Vocoder是一个NSF-HiFiGAN声码器，旨在尝试解决OpenVPI NSF-H
 - [CODEY_Dataset](https://github.com/KakaruHayate/CODEY_Dataset)
 - [M4Singer](https://m4singer.github.io/)
 - [NUS-SMC-48](https://smcnus.comp.nus.edu.sg/)
-- 
+- [McHuo](https://github.com/lmaxwell/McHuo)
