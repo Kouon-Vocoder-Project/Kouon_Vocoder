@@ -13,11 +13,13 @@ Kouon_NSF_Vocoder是一个NSF-HiFiGAN声码器，旨在解决OpenVPI NSF-HiFiGAN
 - [不伊子](https://space.bilibili.com/346428248)
 - [Akatsuki](https://space.bilibili.com/21992257)
 - [落雨楓N](https://space.bilibili.com/5699347)
+- [AlexYHX](https://space.bilibili.com/13303439)
+- [芮晴](https://space.bilibili.com/383588200)
 - 星辰
 - 
 
 组织：
-
+- [韶和Project](https://space.bilibili.com/383588200)
 
 # 声码器训练所用到的开源/公开数据集
 - [OpenCPOP](https://wenet.org.cn/opencpop/)
