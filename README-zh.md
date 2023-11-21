@@ -7,6 +7,10 @@ Kouon_NSF_Vocoder是一个NSF-HiFiGAN声码器，旨在尝试解决OpenVPI NSF-H
 
 项目正在准备中，敬请期待。
 
+# 算力提供
+
+- [明矾](https://space.bilibili.com/434036807)
+
 # 声码器数据贡献者及组织（逐步更新）
 
 个人：
