@@ -9,6 +9,10 @@ This Vocoder project is intended for research and non-commercial use only.
 
 The project is in preparation, so stay tuned.
 
+# GPU server provider for vocoder training
+
+- [明矾](https://space.bilibili.com/434036807)
+
 # Vocoder Data Contributors and Organizations (progressive update)
 
 Personal:
