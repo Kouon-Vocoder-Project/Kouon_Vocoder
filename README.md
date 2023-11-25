@@ -11,7 +11,7 @@ The project is in preparation, so stay tuned.
 
 # GPU server provider for vocoder training
 
-- [明矾](https://space.bilibili.com/434036807)
+- [CN17161](https://space.bilibili.com/434036807)
 
 # Vocoder Data Contributors and Organizations (progressive update)
 
@@ -29,6 +29,7 @@ Personal:
 - [祁唱](https://space.bilibili.com/11256670)
 - [浅律Asaritsu](https://space.bilibili.com/6483585)
 - [白光Raphaelwalty](https://space.bilibili.com/22975119)
+- [洛泠羽](https://space.bilibili.com/347373318)
 
 Organization:
 - [韶和Project](https://space.bilibili.com/383588200)
