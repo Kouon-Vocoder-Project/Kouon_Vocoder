@@ -9,6 +9,8 @@ This Vocoder project is intended for research and non-commercial use only.
 
 The project is in preparation, so stay tuned.
 
+Current progress: in training, progress 22k steps, expected training progress 750k steps.(202312041040)
+
 # GPU server provider for vocoder training
 
 - [CN17161](https://space.bilibili.com/434036807)
