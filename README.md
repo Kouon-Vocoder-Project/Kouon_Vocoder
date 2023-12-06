@@ -13,8 +13,7 @@ Current progress: in training, progress 330k steps, expected training progress 7
 
 # GPU server provider for vocoder training
 
-- [CN17161](https://space.bilibili.com/434036807)
-- RTX3090 x4
+- [CN17161](https://space.bilibili.com/434036807)(RTX3090 x4)
 
 # Vocoder Data Contributors and Organizations (progressive update)
 
