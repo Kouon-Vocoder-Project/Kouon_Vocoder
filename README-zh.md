@@ -7,7 +7,7 @@ Kouon_NSF_Vocoder是一个NSF-HiFiGAN声码器，旨在尝试解决OpenVPI NSF-H
 
 项目正在准备中，敬请期待。
 
-目前进度：正在训练中，进度22k steps，预计训练进度为750k steps。（202312041040）
+目前进度：正在训练中，进度330k steps，预计训练进度为750k steps。（202312070028）
 
 # 算力提供
 
