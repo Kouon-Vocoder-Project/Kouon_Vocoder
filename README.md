@@ -1,7 +1,7 @@
-# Kouon_NSF_Vocoder
+# Kouon_Vocoder
 [中文文档(building...)](https://github.com/colstone/Kouon_NSF_Vocoder/blob/main/README-zh.md)
 
-Kouon_NSF_Vocoder is an NSF-HiFiGAN vocoder designed to try to solve the problems of the narrower range of the OpenVPI NSF-HiFiGAN Vocoder and the poorer sound quality of the Fish NSF-HiFiGAN Vocoder.
+The kouon_vocoder project is a vocoder project driven by the SVS community and the producers involved in song synthesis. It aims to solve the range problem of the OpenVPI NSF-HiFiGAN vocoder and the sound quality problem of the Fish NSF-HiFiGAN vocoder.
 
 This project is part of the Multi-langs project and runs as a separate sub-project.
 
