@@ -23,7 +23,7 @@ nsf_hifigan(OpenVPI)
 
 - [rua旋转](https://space.bilibili.com/434036807)
 - [旋转_turning_point](https://space.bilibili.com/285801087/)
-- 可米斯圣
+- [可米斯圣](https://space.bilibili.com/51208271/)
 - 星空
 
 # 声码器数据贡献者及组织（逐步更新）
