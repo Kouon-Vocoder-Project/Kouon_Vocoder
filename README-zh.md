@@ -5,13 +5,18 @@ Kouon_NSF_Vocoder是一个NSF-HiFiGAN声码器，旨在尝试解决OpenVPI NSF-H
 
 此Vocoder项目仅作为研究和非商业使用。
 
-项目正在准备中，敬请期待。
+目前进度：nsf_hifigan训练成功，计划于2024年7月10日在[QQ公测群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=AgfyrH0ngohMBn9iRAp9E4jZPEhoQBn5&authKey=QvzDSQcjAOk5ekwV2QXri7ovKx6WCWo%2B%2FuBdtUts%2FX%2Bqyy4esBe3JaGe7Z%2FGV8ls&noverify=0&group_code=749073684)发布
 
-目前进度：正在训练中，进度330k steps，预计训练进度为750k steps。（202312070028）
+# 训练代码
 
-# 算力提供
+nsf_hifigan(OpenVPI)
 
-- [CN17161](https://space.bilibili.com/434036807)(RTX3090 x4)
+# 此项目的主要贡献者
+
+- [CN17161](https://space.bilibili.com/434036807)
+- 旋转_turning_point
+- 可米斯圣
+- 星空
 
 # 声码器数据贡献者及组织（逐步更新）
 
