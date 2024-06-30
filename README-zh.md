@@ -17,6 +17,8 @@ nsf_hifigan(OpenVPI)
 
 [曙光智算](https://ac.sugon.com/)
 
+使用算力为 4*NVIDIA A800 80GB
+
 # 此项目的主要贡献者
 
 - [CN17161](https://space.bilibili.com/434036807)
