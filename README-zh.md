@@ -21,7 +21,7 @@ nsf_hifigan(OpenVPI)
 
 # 此项目的主要贡献者
 
-- [CN17161](https://space.bilibili.com/434036807)
+- [rua旋转](https://space.bilibili.com/434036807)
 - 旋转_turning_point
 - 可米斯圣
 - 星空
