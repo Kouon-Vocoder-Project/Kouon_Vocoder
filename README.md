@@ -23,5 +23,6 @@ RefineGAN Training __Success__,testing on [QQ Group](http://qm.qq.com/cgi-bin/qm
 - [旋转_turning_point]
 - [可米斯圣]
 - [星空]
+- [爱摸鱼的zzc]
 
 ## For more information on the individual vocoders, please see our relese in the repository.
