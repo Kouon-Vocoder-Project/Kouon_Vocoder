@@ -9,8 +9,8 @@ Kouon_Vocoder是一个由SVS社区与歌声合成爱好者共同驱动的声码�
 
 # 训练代码
 
-refinegan(fish-diffusion)
-nsf_hifigan(OpenVPI)
+- refinegan(fish-diffusion)
+- nsf_hifigan(OpenVPI)
 
 # 算力提供
 
