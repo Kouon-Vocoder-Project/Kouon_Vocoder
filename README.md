@@ -1,5 +1,5 @@
 # Kouon_Vocoder
-[中文文档(building...)](https://github.com/Kouon-Vocoder-Project/Kouon_NSF_Vocoder/blob/main/README-zh.md)
+[中文文档(building...)](https://github.com/Kouon-Vocoder-Project/Kouon_Vocoder/blob/main/README-zh.md)
 
 The kouon_vocoder project is a vocoder project driven by the SVS community and the producers involved in singing synthesis. It aims to solve the range problem of the OpenVPI NSF-HiFiGAN vocoder and the sound quality problem of the Fish NSF-HiFiGAN vocoder.
 
@@ -15,6 +15,7 @@ RefineGAN Training __Success__,testing on [QQ Group](http://qm.qq.com/cgi-bin/qm
 # Training Code
 
 - RefineGAN: [Fish-Diffusion]
+- NSF-HiFiGAN: [OpenVPI's Singing Vocoders Code](https://github.com/openvpi/SingingVocoders)
 
 # Major contributors to this repository:
 
