@@ -10,7 +10,7 @@ This Vocoder project is intended for research and non-commercial use only.
 Current progress: 
 RefineGAN Training __Success__,testing on [QQ Group](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=AgfyrH0ngohMBn9iRAp9E4jZPEhoQBn5&authKey=QvzDSQcjAOk5ekwV2QXri7ovKx6WCWo%2B%2FuBdtUts%2FX%2Bqyy4esBe3JaGe7Z%2FGV8ls&noverify=0&group_code=749073684) (20240201)
 
-**NEW:** Our's NSF-HiFiGAN is Training **SUCCESS**, And it's released before 12:00 AM on 2024/07/10 (20240710)
+**NEW:** Our's NSF-HiFiGAN is Training **SUCCESS**, And release ONNX model and OpenUTAU's OUDEP before 12:00 AM on 2024/07/10 (20240710)
 
 # Training Code
 
