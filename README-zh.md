@@ -5,7 +5,7 @@ Kouon_Vocoder是一个由SVS社区与歌声合成爱好者共同驱动的声码�
 
 此Vocoder项目仅作为研究和非商业使用。
 
-目前进度：nsf_hifigan训练成功，计划于2024年7月10日12：00之前发布ONNX版本，最新消息请加入[QQ公测群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=AgfyrH0ngohMBn9iRAp9E4jZPEhoQBn5&authKey=QvzDSQcjAOk5ekwV2QXri7ovKx6WCWo%2B%2FuBdtUts%2FX%2Bqyy4esBe3JaGe7Z%2FGV8ls&noverify=0&group_code=749073684)。
+目前进度：nsf_hifigan训练成功，已于2024年7月10日推出ONNX版本，最新消息请加入[QQ公测群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=AgfyrH0ngohMBn9iRAp9E4jZPEhoQBn5&authKey=QvzDSQcjAOk5ekwV2QXri7ovKx6WCWo%2B%2FuBdtUts%2FX%2Bqyy4esBe3JaGe7Z%2FGV8ls&noverify=0&group_code=749073684)。
 
 # 训练代码
 
