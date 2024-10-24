@@ -5,7 +5,10 @@ Kouon_Vocoder是一个由SVS社区与歌声合成爱好者共同驱动的声码�
 
 此Vocoder项目仅作为研究和非商业使用。
 
-目前进度：nsf_hifigan训练成功，已于2024年7月10日推出ONNX版本，最新消息请加入[QQ公测群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=AgfyrH0ngohMBn9iRAp9E4jZPEhoQBn5&authKey=QvzDSQcjAOk5ekwV2QXri7ovKx6WCWo%2B%2FuBdtUts%2FX%2Bqyy4esBe3JaGe7Z%2FGV8ls&noverify=0&group_code=749073684)。
+目前进度：2024.07.10 nsf_hifigan第一版训练完毕，已于2024年7月10日推出ONNX
+         2024.10.07 mini nsf_hifigan训练完毕，推出时间待定
+         2024.10.22 nsf_hifigan第二版训练完毕，推出时间待定
+         版本最新消息请加入[QQ公测群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=AgfyrH0ngohMBn9iRAp9E4jZPEhoQBn5&authKey=QvzDSQcjAOk5ekwV2QXri7ovKx6WCWo%2B%2FuBdtUts%2FX%2Bqyy4esBe3JaGe7Z%2FGV8ls&noverify=0&group_code=749073684)
 
 # 训练代码
 
@@ -18,7 +21,10 @@ Kouon_Vocoder是一个由SVS社区与歌声合成爱好者共同驱动的声码�
 
 [曙光智算](https://ac.sugon.com/)
 
-使用算力为 4*NVIDIA A800 80GB
+nsf第一版使用算力为 4*NVIDIA A800 PCIE 80GB
+mini-nsf使用算力为 8*NVIDIA H800 SXM 80GB
+nsf第二版使用算力为 8*NVIDIA H100 SXM 80GB
+
 
 # 此项目的主要贡献者
 
@@ -27,5 +33,6 @@ Kouon_Vocoder是一个由SVS社区与歌声合成爱好者共同驱动的声码�
 - [可米斯圣](https://space.bilibili.com/51208271/)
 - 爱摸鱼的zzc
 - 星空
+- [白菜工厂1145号员工](https://space.bilibili.com/518098961/)
 
 # 关于各个声码器的详细信息，请查看我们在repository的relese。
