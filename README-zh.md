@@ -37,3 +37,9 @@ Kouon_Vocoder是一个由SVS社区与歌声合成爱好者共同驱动的声码�
 - [白菜工厂1145号员工](https://space.bilibili.com/518098961/)
 
 # 关于各个声码器的详细信息，请查看我们在repository的relese。
+
+# 特别感谢
+- [花宴ichika](https://space.bilibili.com/1274610906)
+- [进击的jinji](https://space.bilibili.com/35467228988070516)
+- [夕沢yuusawa](https://space.bilibili.com/50750599)
+- [灌肠]()
