@@ -8,9 +8,9 @@ This project is part of the Multi-langs project and runs as a separate sub-proje
 This Vocoder project is intended for research and non-commercial use only.
 
 # Changelog
-- 2024.07.10 nsf_hifigan version one: The onnx file has been released.
+- 2024.07.10 nsf_hifigan v1.0: The onnx file has been released.
 - 2024.10.07 mini nsf_hifigan: Training done,Rollout date TBD.
-- 2024.10.22 nsf_hifigan version two: Training done,Rollout date TBD.
+- 2024.10.22 nsf_hifigan v2.0: Training done,Rollout date TBD.
 - For the latest news of the version, please join the [QQ group](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=AgfyrH0ngohMBn9iRAp9E4jZPEhoQBn5&authKey=QvzDSQcjAOk5ekwV2QXri7ovKx6WCWo%2B%2FuBdtUts%2FX%2Bqyy4esBe3JaGe7Z%2FGV8ls&noverify=0&group_code=749073684).
 
 # Computing power specifications
