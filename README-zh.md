@@ -7,8 +7,8 @@ Kouon_Vocoder是一个由SVS社区与歌声合成爱好者共同驱动的声码�
 
 目前进度：
 - 2024.07.10 nsf_hifigan第一版训练完毕，已于2024年7月10日推出ONNX
-- 2024.10.31 nsf_hifigan第二版训练完毕，已于2024年7月10日推出ONNX
-- 2024.11.01 mini nsf_hifigan训练完毕，已于2024年7月10日推出ONNX
+- 2024.10.31 nsf_hifigan第二版训练完毕，已于2024年11月2日推出ONNX
+- 2024.11.01 mini nsf_hifigan训练完毕，已于2024年11月2日推出ONNX
 - 版本最新消息请加入[QQ公测群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=AgfyrH0ngohMBn9iRAp9E4jZPEhoQBn5&authKey=QvzDSQcjAOk5ekwV2QXri7ovKx6WCWo%2B%2FuBdtUts%2FX%2Bqyy4esBe3JaGe7Z%2FGV8ls&noverify=0&group_code=749073684)
 
 # 训练代码
