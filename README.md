@@ -39,5 +39,6 @@ This Vocoder project is intended for research and non-commercial use only.
 - [进击的jinji](https://space.bilibili.com/35467228988070516)
 - [夕沢yuusawa](https://space.bilibili.com/50750599)
 - [灌肠]()
+- [星海智算(算力提供)](https://gpu.spacehpc.com/)
 
 # For more information on the individual vocoders, please see our relese in the repository.
