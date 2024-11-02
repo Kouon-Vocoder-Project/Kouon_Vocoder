@@ -22,6 +22,8 @@ Kouon_Vocoder是一个由SVS社区与歌声合成爱好者共同驱动的声码�
 
 [曙光智算](https://ac.sugon.com/)
 
+[星海智算](https://gpu.spacehpc.com/)
+
 - nsf第一版使用算力为 4*NVIDIA A800 PCIE 80GB
 - mini-nsf使用算力为 8*NVIDIA H800 SXM 80GB
 - nsf第二版使用算力为 8*NVIDIA H100 SXM 80GB
